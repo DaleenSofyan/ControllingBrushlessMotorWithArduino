@@ -54,6 +54,6 @@ Furthermore, the Dshot protocol is different from the two others because it send
 
 
 <h2>Resources</h2>
-1. https://www.tytorobotics.com/blogs/articles/how-brushless-motors-work
-2. https://www.automate.org/blogs/what-is-a-brushless-dc-motor-and-how-does-it-work
-3. https://howtomechatronics.com/tutorials/arduino/arduino-brushless-motor-control-tutorial-esc-bldc/
+1. https://www.tytorobotics.com/blogs/articles/how-brushless-motors-work <br>
+2. https://www.automate.org/blogs/what-is-a-brushless-dc-motor-and-how-does-it-work <br>
+3. https://howtomechatronics.com/tutorials/arduino/arduino-brushless-motor-control-tutorial-esc-bldc/ <br>
